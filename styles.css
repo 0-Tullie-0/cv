@@ -1,0 +1,117 @@
+
+body {
+      margin: 0 0 0 0;
+      text-align: center;
+      font-family: "Merriweather",serif;
+
+}
+
+h1 {
+      margin: 50px auto 0 auto;
+    font-family: "Sacramento",cursive;
+    font-size: 5.625rem;
+    color:#66BFBF
+}
+
+.introduction{
+  color: #40514E;
+  text-align: center;
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+
+hr {
+    border-style: dotted;
+    color: #EAF6F6;
+    border-width:thick;
+    border-left: 0;
+    border-right: 0;
+    width: 5%;
+}
+  h2{
+      font-family: "Montserrat", serif;
+      font-size: 2rem;
+      font-weight:bolder;
+      color: #66BFBF;
+      line-height: 2;
+
+}
+
+h3{
+  color: #11999E;
+    font-family: "Montserrat", serif;
+    font-weight:bold;
+    font-size: 1.25rem;
+  }
+
+.top-container {
+  margin: 0;
+  position: relative;
+  padding-top: 75px;
+  background-color: #EAF6F6;
+}
+.middle-container {
+  background-color: white;
+  margin: 0;
+  padding-bottom: 2.5rem;
+}
+.profile{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.bottom-container {
+  margin: 0;
+  position: relative;
+  padding-bottom: 8rem;
+}
+.facebook {
+position:absolute;
+left: 25%;
+}
+.instagram {
+  position: absolute;
+  left: 50%;
+}
+.Email {
+  position: absolute;
+  left:75%;
+}
+.bottom-cloud {
+  position: absolute;
+  left:25%;
+
+}
+.top-cloud {
+  position: absolute;
+  right:25%;
+  top: 50px
+}
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.perseverence{
+  float: left;
+  margin-right: 30px;
+height: 25%;
+width:25%;
+}
+
+.eating{
+  float: right;
+  margin-left: 30px;
+height: 25%;
+width:25%;
+}
+
+.copyright{
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  text-align: center;
+  margin: 0;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+}
